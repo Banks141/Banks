@@ -67,9 +67,9 @@
     "cross-env": "^7.0.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "http-proxy-middleware": "^0.20.0",
-    "jest": "^25.1.0",
+    "jest": "^30.2.0",
     "ts-jest": "^25.2.0",
     "typescript": "^3.8.3"
   },
